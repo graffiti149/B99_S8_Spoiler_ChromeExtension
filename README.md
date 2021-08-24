@@ -11,4 +11,4 @@
 6. Select the folder where you have unzipped the file
 7. An Extension by the name "Hide B99 Spoilers" must appear on the extensions page
 8. Click the bottom right button
-9. Refresh the page and you will be saved from recent Brooklyn Nine Nine Season 8 
+9. Refresh the page and you will be saved from recent Brooklyn Nine Nine Season 8 Spoilers
