@@ -1,4 +1,4 @@
-FEATURES :
+**FEATURES :**
 1. Spoiler Blocking: Searches entire web page and replaces Spoilers with text "SPOILER DETECTED !!"
 2. Image Blurring: Blurs the neighbouring Images which are relevant and might reveal the Spoiler information.
 
