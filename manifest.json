@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+
+  "name": "Hide B99 Spoilers",
+  "description": "Trying to save one from the new Season 8 B99 Spoilers",
+  "version": "1.0.1",
+  "icons": { 
+          "12": "b99img.png" },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["jquery-3.4.0.min.js", "hide_spoilers.js"],
+      "run_at": "document_end"
+    }
+  ],
+   "permissions": [
+    "activeTab"
+   ]
+}
